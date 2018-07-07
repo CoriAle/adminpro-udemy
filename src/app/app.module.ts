@@ -18,6 +18,7 @@ import {PageModule} from './pages/pages.module';
     AppComponent,
     LoginComponent,
     RegisterComponent
+    
   ],
   imports: [
     BrowserModule,
